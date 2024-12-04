@@ -1,16 +1,12 @@
 # ppb_hahatix
 
-A new Flutter project.
+Project aplikasi pembelian tiket secara online menggunakan mobile aplikasi dengan framework dari flutter 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# project ini dikerjakan oleh 5 orang:
+1. Adi Maulana       (220102004)
+2. Indra Darmawan    (220102040)
+3. M. Alviansah      (220102054)
+4. Raka Zeniusa B    (220102070)
+5. Tubagus Daffa N   (220102084)
+   
+Project ini dikerjakan untuk memenuhi tugas besar mata kuliah pemrograman perangkat bergerak 
